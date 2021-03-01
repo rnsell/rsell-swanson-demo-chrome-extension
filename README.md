@@ -2,7 +2,9 @@
 
 # Ron Swanson Extension
 
-This is a companion chrome extension for a Ron Swonson quote app I've build. It allows you to customize the featues of the application.
+This is a companion chrome extension for a Ron Swonson quote app I've built. It allows you to customize featues of the application. Check the gif below to see it in action.
+
+<img src="src/assets/img/swanson-extension.gif" width="64"/>
 
 ## Features
 
